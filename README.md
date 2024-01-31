@@ -1,6 +1,6 @@
 ## Hihi! 💌
 ### I'm Nina.
-### I'm a fourth-year undergraduate student at the University of Toronto, double majoring in CS and Psych 👩🏻‍💻🧠
+### 👩🏻‍💻🧠 I study CS and Psych.
 
 <!--
 **nina-huangg/nina-huangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
