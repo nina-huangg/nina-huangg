@@ -1,7 +1,7 @@
 ## Hihi! 💌
-### I'm Nina.
+### I'm Nina, a student at UofT.
 ### I study CS and Psych 👩🏻‍💻🧠 
-
+### I'm passionate about building technology that drives social change. 🌱
 <!--
 **nina-huangg/nina-huangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
