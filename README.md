@@ -1,5 +1,6 @@
-### Hihi!
-#### I'm Nina, a fourth-year undergraduate student at the University of Toronto, double majoring in Computer Sciences and Psychology.
+### Hihi! 💌
+#### I'm Nina.
+#### I'm a fourth-year undergraduate student at the University of Toronto, double majoring in Computer Sciences and Psychology 👩🏻‍💻🧠
 
 <!--
 **nina-huangg/nina-huangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
